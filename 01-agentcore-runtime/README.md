@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Strands Agent with Currency Converter
+# Strands Agent - Code Explanation
 
 **Abstract**: This script creates an AI agent powered by AWS Bedrock's Claude model that can perform calculations, check weather, and convert currencies. It accepts JSON input via command line and returns intelligent responses by automatically selecting and using the appropriate tools.[^2][^3]
 
